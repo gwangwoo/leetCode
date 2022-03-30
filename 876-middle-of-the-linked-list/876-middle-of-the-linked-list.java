@@ -16,8 +16,6 @@ class Solution {
             size++;
             checkSize = checkSize.next;
         }
-        System.out.println(size);
-        
         int start = size / 2 + 1;
         while(--start > 0) {
             head = head.next;
