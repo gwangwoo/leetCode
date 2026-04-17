@@ -1,23 +1,16 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.concurrent.atomic.AtomicInteger;
 class Solution {
-    public int singleNumber(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        Arrays.stream(nums).forEach(num -> {
-            if(!map.containsKey(num)) {
-                map.put(num, 1);
-                return;
+    public static int singleNumber(int[] nums) {
+        int offset = 30001;
+        int[] nCount = new int[offset*2];
+        for (int i = 0 ; i < nums.length ; i++) {
+            nCount[nums[i] + offset]++;
+        }
+        int answer = 0;
+        for (int i = 0 ; i < nCount.length ; i++) {
+            if (nCount[i] == 1) {
+                return i - offset;
             }
-            map.put(num, map.get(num)+1);
-        });
-        AtomicInteger answer = new AtomicInteger(-1987654321);
-        map.forEach((k,v) -> {
-            if(v == 1) {
-                answer.set(k);
-            }
-        });
-        return answer.get();
+        }
+        return -1;
     }
 }
