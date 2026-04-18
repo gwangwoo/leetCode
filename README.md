@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/gwangwoo/leetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0136-single-number](https://github.com/gwangwoo/leetCode/tree/main/0136-single-number/) | Easy |
+| [0994-rotting-oranges](https://github.com/gwangwoo/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/gwangwoo/leetCode/tree/main/0136-single-number/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/gwangwoo/leetCode/tree/main/0994-rotting-oranges/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/gwangwoo/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
