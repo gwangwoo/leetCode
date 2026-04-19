@@ -9,12 +9,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/gwangwoo/leetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0136-single-number](https://github.com/gwangwoo/leetCode/tree/main/0136-single-number/) | Easy |
 | [0542-01-matrix](https://github.com/gwangwoo/leetCode/tree/main/0542-01-matrix/) | Medium |
+| [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/gwangwoo/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/gwangwoo/leetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/gwangwoo/leetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/gwangwoo/leetCode/tree/main/0542-01-matrix/) | Medium |
+| [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/gwangwoo/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/gwangwoo/leetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Matrix
@@ -39,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/gwangwoo/leetCode/tree/main/0542-01-matrix/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
