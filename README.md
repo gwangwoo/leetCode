@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/gwangwoo/leetCode/tree/main/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/gwangwoo/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/gwangwoo/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/gwangwoo/leetCode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
@@ -49,4 +50,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/gwangwoo/leetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/gwangwoo/leetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/gwangwoo/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
