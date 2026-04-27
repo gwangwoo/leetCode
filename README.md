@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/gwangwoo/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/gwangwoo/leetCode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1376-time-needed-to-inform-all-employees](https://github.com/gwangwoo/leetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/gwangwoo/leetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/gwangwoo/leetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/gwangwoo/leetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/gwangwoo/leetCode/tree/main/0721-accounts-merge/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/gwangwoo/leetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/gwangwoo/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/gwangwoo/leetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 <!---LeetCode Topics End-->
