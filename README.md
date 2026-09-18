@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/gwangwoo/leetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0136-single-number](https://github.com/gwangwoo/leetCode/tree/main/0136-single-number/) | Easy |
 | [0200-number-of-islands](https://github.com/gwangwoo/leetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0454-4sum-ii](https://github.com/gwangwoo/leetCode/tree/main/0454-4sum-ii/) | Medium |
 | [0542-01-matrix](https://github.com/gwangwoo/leetCode/tree/main/0542-01-matrix/) | Medium |
 | [0721-accounts-merge](https://github.com/gwangwoo/leetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0454-4sum-ii](https://github.com/gwangwoo/leetCode/tree/main/0454-4sum-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/gwangwoo/leetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/gwangwoo/leetCode/tree/main/0752-open-the-lock/) | Medium |
 ## Depth-First Search
